@@ -354,7 +354,6 @@ contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
 improvedigital.com, 1361, RESELLER
 triplelift.com, 12552, RESELLER, 6c33edb13117fd86
 facebook.com, 1281560689365468, DIRECT, c3e20eee3f780d68
-pangleglobal.com, Account ID, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 facebook.com, 1738313276553090, DIRECT, c3e20eee3f780d68
 facebook.com, 1173811833340302, DIRECT, c3e20eee3f780d68
